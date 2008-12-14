@@ -1,0 +1,4 @@
+#!/bin/sh
+
+SCRIPT_LOCATION=/home/hone/Projects/psp_video_thumbnail/psp_video_thumbnail.rb
+ruby $SCRIPT_LOCATION "$@"
