@@ -1,0 +1,7 @@
+About:
+  Is a gnome nautilus script.  Used for creating (THM) files for psp videos using ffmpeg.
+Instructions:
+  1.  edit SCRIPT_LOCATION in psp_video_thumbnail to where the psp_video_thumbnail.rb points to.
+  2.  move psp_video_thumbnail to $HOME/.gnome2/nautilus-scripts
+License:
+  Will come later..
